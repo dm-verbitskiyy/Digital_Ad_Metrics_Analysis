@@ -1,4 +1,4 @@
-# Digital_Ad_Metrics_Analysis
+# Digital Ad Metrics Analysis
 Аналитическое исследование продуктовых метрик в цифровой рекламе
 
 Исследование выполнено с использованием Jupyter Notebook на языке программирования Python. В процессе анализа данных применялись следующие библиотеки: pandas, seaborn, numpy, matplotlib, scipy.stats.
